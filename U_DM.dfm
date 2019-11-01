@@ -5,16 +5,16 @@ object DataModule3: TDataModule3
   object ADOConnection1: TADOConnection
     Connected = True
     ConnectionString = 
-      'Provider=Microsoft.Jet.OLEDB.4.0;User ID=Admin;Data Source=C:\Us' +
-      'ers\Otavio\Desktop\API FornecedoresV1.0\API Fornecedores\API - T' +
-      'est\DB\ERP.mdb;Mode=Share Deny None;Persist Security Info=False;' +
-      'Jet OLEDB:System database="";Jet OLEDB:Registry Path="";Jet OLED' +
-      'B:Database Password="";Jet OLEDB:Engine Type=5;Jet OLEDB:Databas' +
-      'e Locking Mode=1;Jet OLEDB:Global Partial Bulk Ops=2;Jet OLEDB:G' +
-      'lobal Bulk Transactions=1;Jet OLEDB:New Database Password="";Jet' +
-      ' OLEDB:Create System Database=False;Jet OLEDB:Encrypt Database=F' +
-      'alse;Jet OLEDB:Don'#39't Copy Locale on Compact=False;Jet OLEDB:Comp' +
-      'act Without Replica Repair=False;Jet OLEDB:SFP=False'
+      'Provider=Microsoft.Jet.OLEDB.4.0;User ID=Admin;Data Source=C:\Wo' +
+      'rkspace\ModuloFornecedores\DB\ERP.mdb;Mode=Share Deny None;Persi' +
+      'st Security Info=False;Jet OLEDB:System database="";Jet OLEDB:Re' +
+      'gistry Path="";Jet OLEDB:Database Password="";Jet OLEDB:Engine T' +
+      'ype=5;Jet OLEDB:Database Locking Mode=1;Jet OLEDB:Global Partial' +
+      ' Bulk Ops=2;Jet OLEDB:Global Bulk Transactions=1;Jet OLEDB:New D' +
+      'atabase Password="";Jet OLEDB:Create System Database=False;Jet O' +
+      'LEDB:Encrypt Database=False;Jet OLEDB:Don'#39't Copy Locale on Compa' +
+      'ct=False;Jet OLEDB:Compact Without Replica Repair=False;Jet OLED' +
+      'B:SFP=False'
     LoginPrompt = False
     Mode = cmShareDenyNone
     Provider = 'Microsoft.Jet.OLEDB.4.0'
